@@ -26,3 +26,18 @@ I then also averaged the two outputs to show both edges combined.
 The image on the right definitely has more information than the two first ones.
 
 ![](https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/boundary_detection.png)
+
+---Colorful edge detection---
+
+This time the edge detection was applied on colorful image.
+The results were very amusing :)
+
+![](https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/colorful%20edge%20detection.png)
+
+---Canny edge detector---
+This is the most popular edge detector used nowadays, it works on grayscale images only.
+You can apply this easily using opencv's Canny function.
+
+![](https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/canny%20edges.png)
+
+That is all for this project. I hope it helps you understand things a little better.
