@@ -15,11 +15,9 @@ This is the video from the CNN course that prompted me to try out edge detection
 This shows you how to detect a single edge in a image, either vertical or horizontal.
 The data was generated inside the notebook itself, so no actual image was used.
 
-<img src='https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/single%20edge%20detection%20horizontal.png'/>
+![]('https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/single%20edge%20detection%20horizontal.png')
 
-<br>
-
-<img src='https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/single%20edge%20detection%20vertical.png'/>
+![]('https://github.com/AmarCodes-22/tier-3/blob/main/edge%20detection/outputs/single%20edge%20detection%20vertical.png')
 
 ---Boundary detection---
 
